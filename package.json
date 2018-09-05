@@ -1,0 +1,21 @@
+{
+  "name": "javascript-problem-solving",
+  "description": "Collection of JavaScript algorithms and data structures exercises from Colt Steel's masterclass on Udemy",
+  "main": "playground.js",
+  "scripts": {
+    "start": "nodemon",
+    "test": "jest"
+  },
+  "keywords": [
+    "problem-solving",
+    "javascript",
+    "algorithms",
+    "data-structures"
+  ],
+  "author": "Pēteris Čaurs",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^1.18.4",
+    "jest": "^23.5.0"
+  }
+}
