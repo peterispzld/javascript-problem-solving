@@ -1,6 +1,6 @@
 {
   "name": "javascript-problem-solving",
-  "description": "Collection of JavaScript algorithms and data structures exercises from Colt Steel's masterclass on Udemy",
+  "description": "Collection of JavaScript algorithms and data structures exercises from Colt Steele's masterclass on Udemy",
   "main": "playground.js",
   "scripts": {
     "start": "nodemon",
