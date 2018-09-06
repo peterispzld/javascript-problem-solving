@@ -6,6 +6,7 @@
 Given two strings, write a function to determine 
 if the second string is an anagram of the first.
 An anagram is a word, phrase, or name formed by rearranging 
-the letters of another, such as cinema, formed from iceman. <br>
+the letters of another, such as cinema, formed from iceman.<br>
+
 Inputs are lowercase single words (strings).
 No spaces, punctuation, numbers etc.
