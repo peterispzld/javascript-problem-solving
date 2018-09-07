@@ -2,7 +2,7 @@ const validAnagram = (str1, str2) => {
     if (str1.length !== str2.length) {
         return false;
     }
-    
+
     const charCounter1 = {};
     for (let char of str1) {
         charCounter1[char] = (charCounter1[char] || 0) + 1;

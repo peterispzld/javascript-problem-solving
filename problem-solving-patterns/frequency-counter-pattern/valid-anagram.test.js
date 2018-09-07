@@ -1,4 +1,4 @@
-const validAnagram = require('./validAnagram');
+const validAnagram = require('./valid-anagram');
 
 test('first input length less than second input length', () => {
   expect(validAnagram('hello', 'hell')).toBe(false);
